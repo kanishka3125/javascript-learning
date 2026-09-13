@@ -43,7 +43,7 @@ console.log(user.name);
 
 user = {}; // Error
 
-//3. Reference error if a variable is aasigned without let, const, var
+//3. Reference error if a variable is assigned without let, const, var
 
 "use strict";
 accountEmail = "hfc@gmail.com"; // referenceError
