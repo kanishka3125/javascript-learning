@@ -24,10 +24,6 @@ This repository documents my journey of learning and practicing JavaScript.
 
 To build a strong foundation in JavaScript and prepare for technical interviews and coding assessments.
 
-## 📌 Learning Source
-
-- Chai aur Code — JavaScript Course
-
 ## 📂 Repository Structure
 
 ```text
