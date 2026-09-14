@@ -1,7 +1,7 @@
 // Three ways to declare a variable - let, const, var
 // 1. let - value can be changed 
 let age = 20;
-age = 21;
+age = 22;
 console.log(age);
 
 // 2. const - values cannot be
